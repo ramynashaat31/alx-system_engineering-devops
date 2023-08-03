@@ -1,2 +1,2 @@
 #!/bin/bashi
-chmod --from=gullaume betty hello
+chown --from=gullaume betty hello
